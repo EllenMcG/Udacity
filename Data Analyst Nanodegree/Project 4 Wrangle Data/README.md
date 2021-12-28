@@ -2,7 +2,7 @@
 
 As part of the wrangling section as part of the Udacity Data Analyst Nanodegree, a project was given out to wrangle data from several different sources around a central theme, i.e. using the WeRateDogs twitter account. This was completed using the define, code and test method, i.e. define a quality problem, code to fix this problem and finally a test to ensure that the code has worked according to the define section.
 As part of the project at least 8 quality cleaning operations and at least 2 tidy cleaning operations need to be performed using Python.
-In this reposoite the following files are found
+In this repository the following files are found
 
 - wrangle_act.ipynb: Jupyter Notebook used for gathering, assessing, cleaning, analyzing and visualising data
 - wrangle_act.html: html version of Jupyter Notebook used for this project
