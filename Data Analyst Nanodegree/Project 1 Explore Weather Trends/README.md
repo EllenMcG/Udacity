@@ -8,3 +8,4 @@ In this repository the following files are found;
 - Project Rumbic.docx – outcomes of project
 - Project.docx – insights of weather data 
 - Project010120201.pdf – PDF file of weather insights 
+- README.md - README file of this repository
